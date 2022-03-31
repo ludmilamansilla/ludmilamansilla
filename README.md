@@ -1,7 +1,7 @@
 <h1 align="center"> console.log(Hello World!)👋, I'm Ludmila Mansilla</h1>
 <h3 align="center">Full stack developer and Computer Science Bachelor student from Argentina</h3>
 
-- 🌱 I’m currently learning **new languages, perfecting myself every day, and studying a degree**
+- 🌱 I’m currently learning **new languages, perfecting myself every day, and studying**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ludmilamansilla](https://github.com/ludmilamansilla)
 
