@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://discord.gg/LudmilaMansilla#4350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/ludmilaayelenmansilla@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://gmail.com/ludmilaayelenmansilla@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ludmila-mansilla-1b3198221/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
  
  
