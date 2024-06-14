@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **new languages, perfecting myself every day, and studying**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ludmilamansilla](https://github.com/ludmilamansilla)
-
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://discord.gg/LudmilaMansilla#4350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="rahuldkjain" height="30" width="40" /></a>
