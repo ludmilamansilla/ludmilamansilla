@@ -3,10 +3,7 @@
 ![Ludmila Mansilla](https://github.com/user-attachments/assets/bda8c67a-1fc7-4980-b3b8-57094f0b35f8)
 
 
-<h2> Hola, ¡Soy Ludmila Mansilla! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<div>
-</div>
+
 <p><em>Desarrolladora de Software <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>
 
