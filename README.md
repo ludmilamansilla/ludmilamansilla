@@ -1,6 +1,6 @@
 <!-- Portada -->
 <p align="center">
-  <img src="" alt="Banner de Ludmila Mansilla" style="max-width:100%;">
+  <img src="banner-ludmila-mansilla" alt="Banner de Ludmila Mansilla" style="max-width:100%;">
 </p>
 
 # 👩‍💻 ¡Hola, soy Ludmila!
