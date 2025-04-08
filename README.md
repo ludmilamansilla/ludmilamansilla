@@ -5,6 +5,7 @@
 
 https://github.com/user-attachments/assets/cee51aeb-bf51-4f0f-85d1-c8a4036f2703
 
+![Ludmila Mansilla](https://github.com/user-attachments/assets/bda8c67a-1fc7-4980-b3b8-57094f0b35f8)
 
 
 
