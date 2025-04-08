@@ -1,7 +1,6 @@
 <!-- Portada -->
-<p align="center">
-  ![image alt](https://github.com/ludmilamansilla/ludmilamansilla/blob/main/banner-ludmila-mansilla.png?raw=true)
-</p>
+
+ ![image alt](https://github.com/ludmilamansilla/ludmilamansilla/blob/main/banner-ludmila-mansilla.png?raw=true)
 
 # 👩‍💻 ¡Hola, soy Ludmila!
 
