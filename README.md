@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ludmila Mansilla</h1>
+<h1 align="center">¡Hola Mundo, soy Ludmila Mansilla! ✨👩🏻‍💻</h1>
 
   ![Image](https://github.com/user-attachments/assets/69e7d994-a5db-431a-bcec-5b635a215bb9)
 
