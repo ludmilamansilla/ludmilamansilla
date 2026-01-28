@@ -1,6 +1,5 @@
 <h1 align="center">¡Hola Mundo, soy Ludmila Mansilla! ✨👩🏻‍💻</h1>
 
----
 
 ### 👩‍🎓 Sobre mí
 
