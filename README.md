@@ -1,8 +1,5 @@
 <h1 align="center">¡Hola Mundo, soy Ludmila Mansilla! ✨👩🏻‍💻</h1>
 
-  ![Image](https://github.com/user-attachments/assets/69e7d994-a5db-431a-bcec-5b635a215bb9)
-
-
 ---
 
 ### 👩‍🎓 Sobre mí
@@ -33,7 +30,7 @@ Mi objetivo es crecer profesionalmente en el mundo del desarrollo de software, f
 
 ### 🤝 ¡Colaboremos!
 
-Estoy abierta a colaborar en proyectos de desarrollo web, especialmente aquellos con impacto positivo o con desafíos que me ayuden a crecer. Si tenés una idea, ¡hablemos!
+Estoy abierta a colaborar en proyectos de desarrollo de Software, especialmente aquellos con impacto positivo o con desafíos que me ayuden a crecer. Si tenés una idea, ¡contactame!
 
 ---
 
@@ -52,9 +49,3 @@ Estoy abierta a colaborar en proyectos de desarrollo web, especialmente aquellos
   <img src="https://github-readme-stats.vercel.app/api?username=ludmilamansilla&show_icons=true&theme=rose_pine&hide=prs&hide_rank=false" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilamansilla&layout=compact&theme=rose_pine" alt="Top Langs"/>
 </p>
-
----
-
-> 🌸 La lógica más pura nace del caos más creativo.
-
----
