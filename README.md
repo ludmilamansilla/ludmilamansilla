@@ -58,5 +58,5 @@ Me especializo en:
 
 ## 📫 Conectemos
 
-📧 ludmilamansilladev@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ludmilamansilla  
+📧 Email: ludmilamansilladev@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/ludmilamansilla ](https://www.linkedin.com/in/ludmila-mansilla-1b3198221/) 
