@@ -14,7 +14,7 @@
 Me especializo en:
 - Optimización de procesos comerciales
 - Implementación de módulos ERP
-- Integraciones API (WhatsApp, Tienda Nube, etc.)
+- Integraciones API
 - Resolución de errores técnicos y análisis funcional
 
 ---
