@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy **Ludmila Mansilla** 💻✨
 
-🚀 Desarrolladora 
-🎓 Estudiante de Desarrollo de Software  
-📍 Argentina  
+🚀 Desarrolladora <br>
+🎓 Estudiante de Desarrollo de Software <br>
+📍 Argentina 
 
 ---
 
@@ -43,8 +43,8 @@ Me especializo en:
 
 ## 🎯 En qué estoy enfocada ahora
 
-📈 Crecer como desarrolladora 
-🤖 Integraciones con IA  
+📈 Crecer como desarrolladora <br>
+🤖 Integraciones con IA  <br>
 🏗️ Arquitectura de soluciones empresariales  
 
 ---
