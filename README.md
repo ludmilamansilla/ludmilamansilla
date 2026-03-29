@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif_ludmila.gif" width="100%" />
+  <img src="bannerGif.gif" width="100%" />
 </p>
 
 <h1 align="center">Ludmila Mansilla</h1>
