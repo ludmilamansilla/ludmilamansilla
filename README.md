@@ -1,62 +1,97 @@
-# 👋 ¡Hola! Soy **Ludmila Mansilla** 💻✨
+<p align="center">
+  <img src="TU_GIF_ACA" width="100%" />
+</p>
 
-🚀 Desarrolladora <br>
-🎓 Estudiante de Desarrollo de Software <br>
-📍 Argentina 
+<h1 align="center">Ludmila Mansilla</h1>
 
----
+<p align="center">
+  Backend Developer · ERP Systems · Problem Solver
+</p>
 
-## 💼 Actualmente
+<p align="center">
+  Turning business problems into scalable systems
+</p>
 
-👩‍💻 Trabajo como **Analista Funcional & Especialista en Odoo ERP**  
-📊 Enfocada en personalización y mejora de procesos.  
+## About
 
-Me especializo en:
-- Optimización de procesos comerciales
-- Implementación de módulos ERP
-- Integraciones API
-- Resolución de errores técnicos y análisis funcional
+I am a developer working at the intersection of **technology and business processes**.
 
----
+My experience comes from building and maintaining ERP systems, where I not only develop features but also **understand how companies operate internally** and translate that into scalable solutions.
 
-## 🧠 Tecnologías y Herramientas
+I enjoy working on:
 
-### 💻 Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+* Complex problem solving
+* Debugging real production issues
+* Designing backend logic
+* Improving system performance and workflows
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Currently, I am expanding my knowledge towards:
 
-### ⚙️ Backend & ERP
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* System architecture
+* Scalable backend development
+* AI integrations in business environments
 
 ---
 
-## 🎯 En qué estoy enfocada ahora
+## What I Do
 
-📈 Crecer como desarrolladora <br>
-🤖 Integraciones con IA  <br>
-🏗️ Arquitectura de soluciones empresariales  
+I work daily with real systems and real problems.
+
+That includes:
+
+* Developing and customizing ERP modules
+* Debugging frontend and backend issues
+* Analyzing logs and fixing production errors
+* Integrating external services through APIs
+* Improving business processes through technology
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ludmilamansilla&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilamansilla&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,postgres,mysql,docker,linux,git,github,react,next,express,fastapi,figma,bootstrap"/>
+
+</p>
+
+<p align="center">
+ERP: Odoo · Backend Logic · API Integrations
+</p>
 
 ---
 
-## 📫 Conectemos
+## How I Work
 
-📧 Email: ludmilamansilladev@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/ludmilamansilla ](https://www.linkedin.com/in/ludmila-mansilla-1b3198221/) 
+I focus on building solutions that are not only functional, but also **maintainable and scalable**.
+
+* I prioritize understanding the problem before coding
+* I work comfortably in debugging scenarios
+* I connect technical solutions with business impact
+* I adapt quickly to different systems and environments
+
+---
+
+## Current Focus
+
+* Backend architecture improvement
+* AI applied to business processes
+* Building more robust and scalable systems
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ludmilamansilla&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilamansilla&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  ludmilamansilladev@gmail.com <br>
+  <a href="https://www.linkedin.com/in/ludmila-mansilla-1b3198221/">LinkedIn</a>
+</p>
