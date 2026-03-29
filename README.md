@@ -83,15 +83,11 @@ I focus on building solutions that are not only functional, but also **maintaina
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ludmilamansilla&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilamansilla&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ludmilamansilla&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
 
-<p align="center">
-  ludmilamansilladev@gmail.com <br>
-  <a href="https://www.linkedin.com/in/ludmila-mansilla-1b3198221/">LinkedIn</a>
-</p>
+<p align="center"><a href="mailto:ludmilamansilladev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/ludmila-mansilla-1b3198221/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
