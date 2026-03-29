@@ -8,10 +8,6 @@
   Backend Developer · ERP Systems · Problem Solver
 </p>
 
-<p align="center">
-  Turning business problems into scalable systems
-</p>
-
 ## About
 
 I am a developer working at the intersection of **technology and business processes**.
