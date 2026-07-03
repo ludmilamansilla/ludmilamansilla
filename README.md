@@ -12,7 +12,7 @@
 
 I am a developer working at the intersection of **technology and business processes**.
 
-My experience comes from building and maintaining ERP systems, where I not only develop features but also **understand how companies operate internally** and translate that into scalable solutions.
+My experience comes from building and maintaining ERP systems, where I not only develop features but also **understand how companies operate internally** and translate that into scalable solutions
 
 I enjoy working on:
 
