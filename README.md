@@ -4,42 +4,40 @@
 
 <h1 align="center">Ludmila Mansilla</h1>
 
-<p align="center">
-  Backend Developer · ERP Systems · Problem Solver
-</p>
+## Sobre mí
 
-## About
+Soy desarrolladora y trabajo en la intersección entre la **tecnología y los procesos de negocio**.
 
-I am a developer working at the intersection of **technology and business processes**.
+Mi experiencia viene del desarrollo y mantenimiento de sistemas ERP, donde no solo creo funcionalidades, sino que también **entiendo cómo operan internamente las empresas** y traduzco esas necesidades en soluciones escalables, mantenibles y eficientes.
 
-My experience comes from building and maintaining ERP systems, where I not only develop features but also **understand how companies operate internally** and translate that into scalable solutions
+Me interesa especialmente trabajar en:
 
-I enjoy working on:
+* Resolución de problemas complejos
+* Depuración de errores en entornos reales
+* Diseño de lógica backend
+* Optimización de procesos y flujos de trabajo
+* Integraciones entre sistemas
 
-* Complex problem solving
-* Debugging real production issues
-* Designing backend logic
-* Improving system performance and workflows
+Actualmente estoy profundizando mis conocimientos en:
 
-Currently, I am expanding my knowledge towards:
-
-* System architecture
-* Scalable backend development
-* AI integrations in business environments
+* Arquitectura de software
+* Desarrollo backend escalable
+* Integraciones con inteligencia artificial aplicadas a entornos empresariales
 
 ---
 
-## What I Do
+## Qué hago
 
-I work daily with real systems and real problems.
+Trabajo diariamente con sistemas reales y problemas reales.
 
-That includes:
+Mis tareas incluyen:
 
-* Developing and customizing ERP modules
-* Debugging frontend and backend issues
-* Analyzing logs and fixing production errors
-* Integrating external services through APIs
-* Improving business processes through technology
+* Desarrollo y personalización de módulos ERP
+* Análisis y corrección de errores frontend y backend
+* Revisión de logs y resolución de incidencias en producción
+* Integración de servicios externos mediante APIs
+* Automatización y mejora de procesos de negocio
+* Diseño de soluciones técnicas orientadas al impacto operativo
 
 ---
 
@@ -52,31 +50,33 @@ That includes:
 </p>
 
 <p align="center">
-ERP: Odoo · Backend Logic · API Integrations
+ERP: Odoo · Lógica Backend · Integraciones API · Automatización de procesos
 </p>
 
 ---
 
-## How I Work
+## Cómo trabajo
 
-I focus on building solutions that are not only functional, but also **maintainable and scalable**.
+Me enfoco en construir soluciones que no solo funcionen, sino que también sean **claras, escalables y fáciles de mantener**.
 
-* I prioritize understanding the problem before coding
-* I work comfortably in debugging scenarios
-* I connect technical solutions with business impact
-* I adapt quickly to different systems and environments
-
----
-
-## Current Focus
-
-* Backend architecture improvement
-* AI applied to business processes
-* Building more robust and scalable systems
+* Priorizo entender el problema antes de escribir código
+* Me desenvuelvo bien en escenarios de debugging
+* Conecto las soluciones técnicas con el impacto en el negocio
+* Me adapto rápidamente a distintos sistemas, entornos y tecnologías
+* Busco mejorar procesos, no solo resolver errores puntuales
 
 ---
 
-## GitHub Activity
+## Enfoque actual
+
+* Mejora de arquitectura backend
+* Automatización de procesos empresariales
+* IA aplicada a sistemas de gestión
+* Desarrollo de soluciones robustas y escalables
+
+---
+
+## Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ludmilamansilla&theme=tokyonight&hide_border=true" />
@@ -84,6 +84,13 @@ I focus on building solutions that are not only functional, but also **maintaina
 
 ---
 
-## Contact
+## Contacto
 
-<p align="center"><a href="mailto:ludmilamansilladev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/ludmila-mansilla-1b3198221/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p align="center">
+  <a href="mailto:ludmilamansilladev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ludmila-mansilla-1b3198221/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
